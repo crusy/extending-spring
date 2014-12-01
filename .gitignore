@@ -1,0 +1,5 @@
+a-service/target
+b-service/target
+some-project/target
+.classpath
+.project
